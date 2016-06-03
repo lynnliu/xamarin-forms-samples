@@ -1,7 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 
-namespace AzureTodo
+namespace TodoAzure
 {
 	public class App : Application
 	{
